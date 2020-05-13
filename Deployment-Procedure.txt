@@ -1,0 +1,7 @@
+Deployment Procedure on GCP
+
+We Can Deploy this application from GCP Cloud Function 
+We can directly deploy code snippet to cloud finction and give input file to read (with basic \
+modification in file reading code) 
+
+We can provide specific path from GCP to store result(as required)
