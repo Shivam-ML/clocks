@@ -1,4 +1,5 @@
 1) This code is to calculate angle between hands on a clock face
 2) Main code is in Angle_calcutator.py
-3) input file as clock_input.txt is required to take input for clock position.
+3) input file as clock_input.txt is required to take input for clock position,format for 
+input file is comma seperated with first hour details followed by minutes details.
 4) result will be stored in result.txt
